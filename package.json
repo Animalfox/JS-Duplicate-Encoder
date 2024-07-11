@@ -1,0 +1,23 @@
+{
+  "name": "js-duplicate-encoder",
+  "version": "1.0.0",
+  "description": "Convert a string into a new string where each character is \"(\" if it appears only once, or \")\" if it appears more than once, ignoring case, in order to solve the specified programming exercise.",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "node src/app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animalfox/JS-Duplicate-Encoder.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Animalfox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Animalfox/JS-Duplicate-Encoder/issues"
+  },
+  "homepage": "https://github.com/Animalfox/JS-Duplicate-Encoder#readme"
+}
